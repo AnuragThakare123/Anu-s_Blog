@@ -20,3 +20,5 @@ This is a Blog webiste created by Flask.
 ![Screenshot 2024-05-06 221051](https://github.com/AnuragThakare123/Anu-s_Blog/assets/127232531/34fabb26-85a4-414f-91d4-941051acf92f)
 
 ![Screenshot 2024-05-06 221134](https://github.com/AnuragThakare123/Anu-s_Blog/assets/127232531/97a19cfc-68a8-4939-8330-8ef7841868c6)
+
+![Screenshot 2024-05-06 221705](https://github.com/AnuragThakare123/Anu-s_Blog/assets/127232531/86b54fca-9ceb-46ea-bb73-d6034869cf50)
