@@ -17,8 +17,15 @@ This is a Blog webiste created by Flask.
 
 ![Screenshot 2024-05-06 221210](https://github.com/AnuragThakare123/Anu-s_Blog/assets/127232531/fc348398-5cf4-43dc-b493-d1bac9d3bcc2)
 
-![Screenshot 2024-05-06 221051](https://github.com/AnuragThakare123/Anu-s_Blog/assets/127232531/34fabb26-85a4-414f-91d4-941051acf92f)
-
 ![Screenshot 2024-05-06 221134](https://github.com/AnuragThakare123/Anu-s_Blog/assets/127232531/97a19cfc-68a8-4939-8330-8ef7841868c6)
 
+![Screenshot 2024-05-06 221051](https://github.com/AnuragThakare123/Anu-s_Blog/assets/127232531/34fabb26-85a4-414f-91d4-941051acf92f)
+
+
+
 ![Screenshot 2024-05-06 221705](https://github.com/AnuragThakare123/Anu-s_Blog/assets/127232531/86b54fca-9ceb-46ea-bb73-d6034869cf50)
+
+![Screenshot 2024-05-06 221846](https://github.com/AnuragThakare123/Anu-s_Blog/assets/127232531/829e2846-81ea-4036-97e0-d6ca518ef747)
+
+![Screenshot 2024-05-06 221908](https://github.com/AnuragThakare123/Anu-s_Blog/assets/127232531/aaa961a8-0314-4196-b991-c0f5786508a8)
+
