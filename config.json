@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+      "loacl_server": "True",
+       "local_uri": "mysql://root:@localhost/anu",
+       "prod_uri": "mysql://root:@localhost/anu",
+        "fb_url": "https://facebook.com/anu",
+        "tw_url":"https://twitter.com/anu",
+        "gh_url": "https://github.com/AnuragThakare123",
+        "blog_name": "Anu's Blog",
+        "gmail-user": "kavi79742@gmail.com",
+        "gmail-password": "wyry fkcn khjl tswh",
+       "about_text": "Greetings! I'm Anurag Thakare, and I'm utterly captivated by the art of crafting articles. It's not just a passion; it's a fervent love affair with the written word, where every sentence becomes a brushstroke painting a canvas of ideas and inspiration",
+        "no_of_posts":2,
+         "admin_user": "anu",
+         "admin_password": "subscribenow",
+         "upload_location": "C:\\Users\\Kinga\\Flask\\Flask_tut\\static"
+
+  }
+
+}
